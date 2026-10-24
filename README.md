@@ -3,8 +3,7 @@
 Gaming revenue and paying-user analysis using PostgreSQL and Tableau. Created as a final project for the GoIT Data Analytics course.
 
 📊 [View the interactive Tableau dashboard](https://public.tableau.com/views/Final_Project_17867137332110/RevenueMetricsDashboard)
-
-## Project goal
+<img width="2398" height="1498" alt="  Revenue Metrics Dashboard" src="https://github.com/user-attachments/assets/9ce7385b-8a05-4114-8449-29cd58eb68f6" />## Project goal
 
 Prepare a monthly dataset to track revenue, paying users, churn, and reactivation, and explore the components of revenue change.
 
